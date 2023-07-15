@@ -1,0 +1,10 @@
+<header>
+	<div>
+		<nav *ngFor="let route of navLinks">
+			<a [routerLink]="route.path">{{ route.data?.['title'] }}</a>
+		</nav>
+	</div>
+	<div>
+
+	</div>
+</header>

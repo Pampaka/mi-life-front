@@ -1,0 +1,6 @@
+export const MAIN_PATH = ''
+export const BOOKS_PATH = 'books'
+export const FILMS_PATH = 'films'
+export const FINANCE_PATH = 'finance'
+export const GAMES_PATH = 'games'
+export const INNOVATIONS_PATH = 'innovations'
